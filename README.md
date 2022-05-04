@@ -13,5 +13,8 @@
  This website will be used to market our service online. FeelGood is a beauty salon and spa that provides services to the public. 
  This website may be used by potential clients to learn more about our travel packages. 
  They can contact us or book packages directly on our website if they are interested.
+ 
+ 
+ Live site: https://feelgood123.herokuapp.com/
 
 
